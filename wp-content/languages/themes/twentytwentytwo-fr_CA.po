@@ -1,0 +1,818 @@
+# Translation of Themes - Twenty Twenty-Two in French (Canada)
+# This file is distributed under the same license as the Themes - Twenty Twenty-Two package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-09-30 20:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Language: fr_CA\n"
+"Project-Id-Version: Themes - Twenty Twenty-Two\n"
+"Language-Team: Français du Canada"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:84
+msgid "$150"
+msgstr "$150"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:28
+msgid "$25"
+msgstr "$25"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:56
+msgid "$75"
+msgstr ""
+"$75\n"
+
+#: ../twentytwentytwo/inc/patterns/hidden-404.php:6
+msgid "404 content"
+msgstr "Contenu 404"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:14
+msgid "<em>Flutter</em>, a collection of bird-related ephemera"
+msgstr "<em>Flutter</em>, une collection d'éphémères liés aux oiseaux"
+
+#: ../twentytwentytwo/inc/patterns/page-layout-two-columns.php:10
+msgid "<em>Goldfinch </em><br><em>&amp; Sparrow</em>"
+msgstr "<em>Chardonneret </em><br><em>&amp; Moineau</em>"
+
+#: ../twentytwentytwo/inc/patterns/header-large-dark.php:24
+#: ../twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:14
+msgid "<em>The Hatchery</em>: a blog about my adventures in bird watching"
+msgstr ""
+"<em>The Hatchery</em> : un blog sur mes aventures en observation des oiseaux"
+
+#: ../twentytwentytwo/inc/patterns/general-video-header-details.php:11
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:11
+msgid "<em>Warble</em>, a film about <br>hobbyist bird watchers."
+msgstr ""
+"<em>Warble</em>, un film sur <br>les passionnés d'observation des oiseaux."
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-and-text.php:10
+msgid "<em>Watching Birds </em><br><em>in the Garden</em>"
+msgstr "<em>Observer les oiseaux </em><br><em>dans le jardin</em>"
+
+#: ../twentytwentytwo/inc/patterns/general-image-with-caption.php:15
+msgid "A beautiful bird featuring a surprising set of color feathers."
+msgstr "Un bel oiseau avec un ensemble surprenant de plumes colorées."
+
+#: ../twentytwentytwo/inc/patterns/general-video-trailer.php:16
+#: ../twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:22
+msgid ""
+"A film about hobbyist bird watchers, a catalog of different birds, paired "
+"with the noises they make. Each bird is listed by their scientific name so "
+"things seem more official."
+msgstr ""
+"Un film sur les passionnés d'observation des oiseaux, un catalogue de "
+"différents oiseaux, accompagné des bruits qu'ils émettent. Chaque oiseau est "
+"listé par son nom scientifique pour que les choses semblent plus officielles."
+
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:21
+msgid "A podcast about birds"
+msgstr "Un podcast sur les oiseaux"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:17
+msgid "A trouble of hummingbirds"
+msgstr "Une nuée de colibris"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:6
+msgid "About page links"
+msgstr "Liens de la page À propos"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:6
+msgid "About page links (dark)"
+msgstr "Liens de la page À propos (sombre)"
+
+#: ../twentytwentytwo/inc/patterns/page-about-solid-color.php:6
+msgid "About page on solid color background"
+msgstr "Page À propos sur fond uni"
+
+#: ../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:6
+msgid "About page with large image and buttons"
+msgstr "Page À propos avec grande image et boutons"
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-left.php:6
+msgid "About page with media on the left"
+msgstr "Page À propos avec médias à gauche"
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-right.php:6
+msgid "About page with media on the right"
+msgstr "Page À propos avec médias à droite"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:42
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:46
+msgid "About the hosts"
+msgstr "À propos des hôtes"
+
+#: ../twentytwentytwo/inc/patterns/footer-about-title-logo.php:13
+#: ../twentytwentytwo/inc/patterns/footer-blog.php:13
+msgid "About us"
+msgstr "À propos de nous"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:79
+msgid "Amy Jensen"
+msgstr "Amy Jensen"
+
+#: ../twentytwentytwo/inc/patterns/general-large-list-names.php:11
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:32
+msgid "An icon representing binoculars."
+msgstr "Une icône représentant des jumelles."
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:42
+msgid "An illustration of a bird in flight"
+msgstr "Une illustration d'un oiseau en vol"
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-right.php:9
+msgid "An image of a bird flying"
+msgstr "Une image d'un oiseau en vol"
+
+#: ../twentytwentytwo/inc/patterns/general-video-header-details.php:41
+msgid "Angelo Tso<br>Edward Stilton<br>Amy Jensen<br>Boston Bell<br>Shay Ford"
+msgstr "Angelo Tso<br>Edward Stilton<br>Amy Jensen<br>Boston Bell<br>Shay Ford"
+
+#: ../twentytwentytwo/inc/patterns/footer-blog.php:6
+msgid "Blog footer"
+msgstr "Pied de page du blog"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-blog-posts.php:6
+msgid "Blog posts with left sidebar"
+msgstr "Articles de blog avec une barre latérale à gauche"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:6
+msgid "Blog posts with right sidebar"
+msgstr "Articles de blog avec une barre latérale à droite"
+
+#: ../twentytwentytwo/inc/patterns/general-two-images-text.php:42
+#: ../twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:35
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:30
+msgid "Buy Tickets"
+msgstr "Acheter des billets"
+
+#: ../twentytwentytwo/inc/patterns/footer-blog.php:31
+#: ../twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:74
+msgid "Categories"
+msgstr "Catégories"
+
+#: ../twentytwentytwo/inc/patterns/header-centered-title-navigation-social.php:6
+msgid "Centered header with navigation, social links, and background"
+msgstr "En-tête centré avec navigation, liens sociaux et arrière-plan"
+
+#: ../twentytwentytwo/inc/patterns/footer-dark.php:6
+msgid "Dark footer with title and citation"
+msgstr "Pied de page sombre avec titre et citation"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:40
+msgid "Date"
+msgstr "Date"
+
+#: ../twentytwentytwo/inc/patterns/footer-default.php:6
+msgid "Default footer"
+msgstr "Pied de page par défaut"
+
+#: ../twentytwentytwo/inc/patterns/header-default.php:6
+msgid "Default header"
+msgstr "En-tête par défaut"
+
+#: ../twentytwentytwo/inc/patterns/query-default.php:6
+msgid "Default posts"
+msgstr "Articles par défaut"
+
+#: ../twentytwentytwo/inc/patterns/general-divider-dark.php:6
+msgid "Divider with image and color (dark)"
+msgstr "Séparateur avec image et couleur (sombre)"
+
+#: ../twentytwentytwo/inc/patterns/general-divider-light.php:6
+msgid "Divider with image and color (light)"
+msgstr "Séparateur avec image et couleur (clair)"
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-left.php:17
+msgid "Doug"
+msgstr "Doug"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:55
+msgid "Doug Stilton"
+msgstr "Doug Stilton"
+
+#: ../twentytwentytwo/inc/patterns/page-about-solid-color.php:14
+msgid "Edvard<br>Smith"
+msgstr "Edvard<br>Smith"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:103
+msgid "Emery Driscoll"
+msgstr "Emery Driscoll"
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-right.php:16
+msgid "Emery<br>Driscoll"
+msgstr "Emery<br>Driscoll"
+
+#: ../twentytwentytwo/inc/patterns/hidden-404.php:9
+msgctxt "Error code for a webpage that is not found."
+msgid "404"
+msgstr "404"
+
+#: ../twentytwentytwo/inc/patterns/general-video-trailer.php:12
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:49
+msgid "Extended Trailer"
+msgstr "Bande-annonce étendue"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:75
+msgid "Falcon"
+msgstr "Faucon"
+
+#: ../twentytwentytwo/inc/block-patterns.php:17
+msgid "Featured"
+msgstr "En vedette"
+
+#: ../twentytwentytwo/inc/patterns/general-featured-posts.php:6
+msgid "Featured posts"
+msgstr "Publications en vedette"
+
+#: ../twentytwentytwo/inc/patterns/general-video-header-details.php:29
+msgid "Featuring"
+msgstr "Avec"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:44
+msgid "February, 12 2021"
+msgstr "12 février 2021"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:15
+msgctxt "First item in a numbered list."
+msgid "1"
+msgstr "1"
+
+#: ../twentytwentytwo/inc/patterns/footer-logo.php:6
+msgid "Footer with logo and citation"
+msgstr "Pied de page avec logo et citation"
+
+#: ../twentytwentytwo/inc/patterns/footer-navigation.php:6
+msgid "Footer with navigation and citation"
+msgstr "Pied de page avec navigation et citation"
+
+#: ../twentytwentytwo/inc/patterns/footer-navigation-copyright.php:6
+msgid "Footer with navigation and copyright"
+msgstr "Pied de page avec navigation et droits d'auteur"
+
+#: ../twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:6
+msgid "Footer with query, featured images, title, and citation"
+msgstr "Pied de page avec requête, images en vedette, titre et citation"
+
+#: ../twentytwentytwo/inc/patterns/footer-query-title-citation.php:6
+msgid "Footer with query, title, and citation"
+msgstr "Pied de page avec requête, titre et citation"
+
+#: ../twentytwentytwo/inc/patterns/footer-social-copyright.php:6
+msgid "Footer with social links and copyright"
+msgstr "Pied de page avec liens sociaux et droits d'auteur"
+
+#: ../twentytwentytwo/inc/patterns/footer-about-title-logo.php:6
+msgid "Footer with text, title, and logo"
+msgstr "Pied de page avec texte, titre et logo"
+
+#: ../twentytwentytwo/inc/patterns/footer-title-tagline-social.php:6
+msgid "Footer with title, tagline, and social links on a dark background"
+msgstr "Pied de page avec titre, slogan et liens sociaux sur fond sombre"
+
+#: ../twentytwentytwo/inc/block-patterns.php:18
+msgid "Footers"
+msgstr "Pieds de page"
+
+#: ../twentytwentytwo/inc/patterns/query-image-grid.php:6
+msgid "Grid of image posts"
+msgstr "Grille de publications d'images"
+
+#: ../twentytwentytwo/inc/patterns/query-grid.php:6
+msgid "Grid of posts"
+msgstr "Grille de publications"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-grid-posts.php:6
+msgid "Grid of posts with left sidebar"
+msgstr "Grille de publications avec barre latérale gauche"
+
+#: ../twentytwentytwo/inc/patterns/header-centered-logo.php:6
+msgid "Header with centered logo"
+msgstr "En-tête avec logo centré"
+
+#: ../twentytwentytwo/inc/patterns/header-centered-logo-black-background.php:6
+msgid "Header with centered logo and background"
+msgstr "En-tête avec logo centré et fond"
+
+#: ../twentytwentytwo/inc/patterns/header-image-background.php:6
+msgid "Header with image background"
+msgstr "En-tête avec fond d'image"
+
+#: ../twentytwentytwo/inc/patterns/header-image-background-overlay.php:6
+msgid "Header with image background and overlay"
+msgstr "En-tête avec fond d'image et superposition"
+
+#: ../twentytwentytwo/inc/patterns/header-with-tagline.php:6
+msgid "Header with tagline"
+msgstr "En-tête avec slogan"
+
+#: ../twentytwentytwo/inc/block-patterns.php:19
+msgid "Headers"
+msgstr "En-têtes"
+
+#: ../twentytwentytwo/inc/patterns/hidden-bird.php:9
+#: ../twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:10
+msgid "Heading and bird image"
+msgstr "En-tête et image d'oiseau"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:23
+msgid ""
+"Help support our growing community by joining at the Pigeon level. Your "
+"support will help pay our writers, and you’ll get access to our exclusive "
+"newsletter."
+msgstr ""
+"Aidez à soutenir notre communauté croissante en rejoignant le niveau Pigeon. "
+"Votre soutien aidera à payer nos écrivains, et vous aurez accès à notre "
+"newsletter exclusive."
+
+#: ../twentytwentytwo/inc/patterns/footer-blog.php:50
+#: ../twentytwentytwo/inc/patterns/footer-dark.php:18
+#: ../twentytwentytwo/inc/patterns/footer-default.php:18
+#: ../twentytwentytwo/inc/patterns/footer-logo.php:18
+#: ../twentytwentytwo/inc/patterns/footer-navigation.php:20
+#: ../twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:35
+#: ../twentytwentytwo/inc/patterns/footer-query-title-citation.php:33
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: ../twentytwentytwo/inc/patterns/general-image-with-caption.php:11
+msgid "Hummingbird"
+msgstr "Colibri"
+
+#: ../twentytwentytwo/inc/patterns/general-image-with-caption.php:10
+msgid "Hummingbird illustration"
+msgstr "Illustration de colibri"
+
+#: ../twentytwentytwo/inc/patterns/general-two-images-text.php:17
+#: ../twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:10
+#: ../twentytwentytwo/inc/patterns/header-large-dark.php:29
+#: ../twentytwentytwo/inc/patterns/header-small-dark.php:25
+#: ../twentytwentytwo/inc/patterns/hidden-bird.php:12
+#: ../twentytwentytwo/inc/patterns/hidden-heading-and-bird.php:19
+msgid "Illustration of a bird flying."
+msgstr "Illustration d'un oiseau en vol."
+
+#: ../twentytwentytwo/inc/patterns/general-two-images-text.php:11
+msgid "Illustration of a bird sitting on a branch."
+msgstr "Illustration d'un oiseau perché sur une branche."
+
+#: ../twentytwentytwo/inc/patterns/header-image-background.php:11
+msgid "Illustration of a flying bird"
+msgstr "Illustration d'un oiseau en vol"
+
+#: ../twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:10
+#: ../twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:58
+msgid "Illustration of a flying bird."
+msgstr "Illustration d'un oiseau en vol."
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-left.php:9
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:26
+msgid "Image of a bird on a branch"
+msgstr "Image d'un oiseau sur une branche"
+
+#: ../twentytwentytwo/inc/patterns/general-image-with-caption.php:6
+msgid "Image with caption"
+msgstr "Image avec légende"
+
+#: ../twentytwentytwo/inc/patterns/query-irregular-grid.php:6
+msgid "Irregular grid of posts"
+msgstr "Grille irrégulière de publications"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:31
+msgid "Jesús Rodriguez"
+msgstr "Jesús Rodriguez"
+
+#: ../twentytwentytwo/inc/patterns/general-large-list-names.php:21
+msgid ""
+"Jesús Rodriguez, Doug Stilton, Emery Driscoll, Megan Perry, Rowan Price, "
+"Angelo Tso, Edward Stilton, Amy Jensen, Boston Bell, Shay Ford, Lee "
+"Cunningham, Evelynn Ray, Landen Reese, Ewan Hart, Jenna Chan, Phoenix Murray,"
+" Mel Saunders, Aldo Davidson, Zain Hall."
+msgstr ""
+"Jesús Rodriguez, Doug Stilton, Emery Driscoll, Megan Perry, Rowan Price, "
+"Angelo Tso, Edward Stilton, Amy Jensen, Boston Bell, Shay Ford, Lee "
+"Cunningham, Evelynn Ray, Landen Reese, Ewan Hart, Jenna Chan, Phoenix Murray,"
+" Mel Saunders, Aldo Davidson, Zain Hall."
+
+#: ../twentytwentytwo/inc/patterns/general-video-header-details.php:35
+msgid ""
+"Jesús Rodriguez<br>Doug Stilton<br>Emery Driscoll<br>Megan Perry<br>Rowan "
+"Price"
+msgstr ""
+"Jesús Rodriguez<br>Doug Stilton<br>Emery Driscoll<br>Megan Perry<br>Rowan "
+"Price"
+
+#: ../twentytwentytwo/inc/patterns/page-about-simple-dark.php:18
+msgid "Jesús<br>Rodriguez"
+msgstr "Jesús<br>Rodriguez"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:51
+msgid ""
+"Join at the Sparrow level and become a member of our flock! You’ll receive "
+"our newsletter, plus a bird pin that you can wear with pride when you’re out "
+"in nature."
+msgstr ""
+"Rejoignez le niveau Sparrow et devenez membre de notre groupe ! Vous "
+"recevrez notre newsletter, ainsi qu'une épinglette en forme d'oiseau que "
+"vous pourrez porter fièrement lors de vos sorties dans la nature."
+
+#: ../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:59
+msgid "Join my mailing list"
+msgstr "Rejoignez ma liste de diffusion"
+
+#: ../twentytwentytwo/inc/patterns/general-subscribe.php:16
+msgid "Join our mailing list"
+msgstr "Rejoignez notre liste de diffusion"
+
+#: ../twentytwentytwo/inc/patterns/hidden-404.php:14
+msgctxt "label"
+msgid "Search"
+msgstr "Recherche"
+
+#: ../twentytwentytwo/inc/patterns/header-large-dark.php:6
+msgid "Large header with dark background"
+msgstr "Grand en-tête avec fond sombre"
+
+#: ../twentytwentytwo/inc/patterns/general-large-list-names.php:6
+msgid "Large list of names"
+msgstr "Grande liste de noms"
+
+#: ../twentytwentytwo/inc/patterns/query-large-titles.php:6
+msgid "Large post titles"
+msgstr "Grands titres de publication"
+
+#: ../twentytwentytwo/inc/patterns/footer-blog.php:23
+#: ../twentytwentytwo/inc/patterns/general-featured-posts.php:10
+msgid "Latest posts"
+msgstr "Dernières publications"
+
+#: ../twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:6
+msgid "Layered images with duotone"
+msgstr "Images superposées avec duotone"
+
+#: ../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:51
+msgid "Learn about my process"
+msgstr "Découvrez mon processus"
+
+#: ../twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:31
+msgid "Learn More"
+msgstr "En savoir plus"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:6
+msgid "List of events"
+msgstr "Liste des événements"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:30
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:34
+msgid "Listen on iTunes Podcasts"
+msgstr "Écoutez sur iTunes Podcasts"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:34
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:38
+msgid "Listen on Spotify"
+msgstr "Écoutez sur Spotify"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:52
+msgid "Location"
+msgstr "Emplacement"
+
+#: ../twentytwentytwo/inc/patterns/header-stacked.php:6
+msgid "Logo and navigation header"
+msgstr "En-tête avec logo et navigation"
+
+#: ../twentytwentytwo/inc/patterns/header-logo-navigation-gray-background.php:6
+msgid "Logo and navigation header with background"
+msgstr "En-tête avec logo et navigation sur fond"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:13
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:10
+msgid "Logo featuring a flying bird"
+msgstr "Logo représentant un oiseau en vol"
+
+#: ../twentytwentytwo/inc/patterns/header-logo-navigation-offset-tagline.php:6
+msgid "Logo, navigation, and offset tagline Header"
+msgstr "En-tête avec logo, navigation et slogan décalé"
+
+#: ../twentytwentytwo/inc/patterns/header-logo-navigation-social-black-background.php:6
+msgid "Logo, navigation, and social links header with background"
+msgstr "En-tête avec logo, navigation et liens sociaux sur fond"
+
+#: ../twentytwentytwo/inc/patterns/general-two-images-text.php:29
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:25
+msgid ""
+"May 14th, 2022 @ 7:00PM<br>The Vintagé Theater,<br>245 Arden Rd.<br>"
+"Gardenville, NH"
+msgstr ""
+"14 mai 2022 à 19h00<br>Théâtre Vintagé,<br>245 Arden Rd.<br>Gardenville, NH"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:25
+msgid "May 14th, 2022, 6 PM"
+msgstr "14 mai 2022, 18h"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:49
+msgid "May 16th, 2022, 6 PM"
+msgstr "16 mai 2022, 18h"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:73
+msgid "May 18th, 2022, 7 PM"
+msgstr "18 mai 2022, 19h"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:97
+msgid "May 20th, 2022, 6 PM"
+msgstr "20 mai 2022, 18h"
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-and-text.php:27
+#: ../twentytwentytwo/inc/patterns/page-layout-two-columns.php:36
+msgid ""
+"Oh hello. My name’s Angelo, and I operate this blog. I was born in Portland, "
+"but I currently live in upstate New York. You may recognize me from "
+"publications with names like <a href=\"#\">Eagle Beagle</a> and <a "
+"href=\"#\">Mourning Dive</a>. I write for a living.<br><br>I usually use "
+"this blog to catalog extensive lists of birds and other things that I find "
+"interesting. If you find an error with one of my lists, please keep it to "
+"yourself.<br><br>If that’s not your cup of tea, <a href=\"#\">I definitely "
+"recommend this tea</a>. It’s my favorite."
+msgstr ""
+"Bonjour. Je m'appelle Angelo, et je tiens ce blog. Je suis né à Portland, "
+"mais je vis actuellement dans le nord de l'État de New York. Vous me "
+"reconnaissez peut-être grâce à des publications comme <a href=\"#\">Eagle "
+"Beagle</a> et <a href=\"#\">Mourning Dive</a>. J'écris pour gagner ma vie."
+"<br><br>J'utilise généralement ce blog pour cataloguer des listes d'oiseaux "
+"et d'autres choses que je trouve intéressantes. Si vous trouvez une erreur "
+"dans l'une de mes listes, veuillez la garder pour vous.<br><br>Si cela ne "
+"vous convient pas, <a href=\"#\">je vous recommande fortement ce thé</a>. "
+"C'est mon préféré."
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:53
+msgid ""
+"Oh hello. My name’s Angelo, and you’ve found your way to my blog. I write "
+"about a range of topics, but lately I’ve been sharing my hopes for next year."
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-left.php:21
+msgid ""
+"Oh hello. My name’s Doug, and you’ve found your way to my website. I’m an "
+"avid bird watcher, and I also broadcast my own radio show on Tuesday "
+"evenings at 11PM EDT."
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-about-solid-color.php:22
+msgid ""
+"Oh hello. My name’s Edvard, and you’ve found your way to my website. I’m an "
+"avid bird watcher, and I also broadcast my own radio show every Tuesday "
+"evening at 11PM EDT. Listen in sometime!"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-right.php:20
+msgid ""
+"Oh hello. My name’s Emery, and you’ve found your way to my website. I’m an "
+"avid bird watcher, and I also broadcast my own radio show on Tuesday "
+"evenings at 11PM EDT."
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-about-simple-dark.php:22
+msgid ""
+"Oh hello. My name’s Jesús, and you’ve found your way to my website. I’m an "
+"avid bird watcher, and I also broadcast my own radio show on Tuesday "
+"evenings at 11PM EDT."
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-and-text.php:6
+msgid "Page layout with image and text"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:6
+msgid "Page layout with image, text and video"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-layout-two-columns.php:6
+msgid "Page layout with two columns"
+msgstr ""
+
+#: ../twentytwentytwo/inc/block-patterns.php:21
+msgid "Pages"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-layered-images-with-duotone.php:9
+#: ../twentytwentytwo/inc/patterns/header-image-background-overlay.php:11
+msgid "Painting of ducks in the water."
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:19
+msgid "Pigeon"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:79
+msgid ""
+"Play a leading role for our community by joining at the Falcon level. This "
+"level earns you a seat on our board, where you can help plan future "
+"birdwatching expeditions."
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:6
+msgid "Poster with right sidebar"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-layout-two-columns.php:58
+msgid "POSTS"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:6
+msgid "Pricing table"
+msgstr ""
+
+#. WordPress link.
+#: ../twentytwentytwo/inc/patterns/footer-blog.php:49
+#: ../twentytwentytwo/inc/patterns/footer-dark.php:17
+#: ../twentytwentytwo/inc/patterns/footer-default.php:17
+#: ../twentytwentytwo/inc/patterns/footer-logo.php:17
+#: ../twentytwentytwo/inc/patterns/footer-navigation.php:19
+#: ../twentytwentytwo/inc/patterns/footer-query-images-title-citation.php:34
+#: ../twentytwentytwo/inc/patterns/footer-query-title-citation.php:32
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:17
+msgid "Purchase my work"
+msgstr ""
+
+#: ../twentytwentytwo/inc/block-patterns.php:20
+msgid "Query"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:43
+msgid "Read about me"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-large-list-names.php:30
+msgid "Read more"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-two-images-text.php:25
+msgid "SCREENING"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-text-and-video.php:21
+msgid "Screening"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/hidden-404.php:14
+msgid "Search"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:43
+msgctxt "Second item in a numbered list."
+msgid "2"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-layout-image-and-text.php:15
+msgctxt "Short for to be determined"
+msgid "TBD"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/query-simple-blog.php:6
+msgid "Simple blog posts"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/page-about-simple-dark.php:6
+msgid "Simple dark about page"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/header-small-dark.php:6
+msgid "Small header with dark background"
+msgstr ""
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:47
+msgid "Sparrow"
+msgstr "Moineau"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:11
+msgid "Speaker Series"
+msgstr "Série de conférenciers"
+
+#: ../twentytwentytwo/inc/patterns/page-about-media-left.php:17
+msgid "Stilton"
+msgstr "Stilton"
+
+#: ../twentytwentytwo/inc/patterns/general-subscribe.php:6
+msgid "Subscribe callout"
+msgstr "Appel à s'abonner"
+
+#: ../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:25
+msgid "Support my studio"
+msgstr "Soutenez mon studio"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:38
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:42
+msgid "Support the show"
+msgstr "Soutenez le spectacle"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:17
+msgid "Swoop"
+msgstr "Rapace"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-blog-posts-right.php:80
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: ../twentytwentytwo/inc/patterns/page-about-large-image-and-buttons.php:33
+msgid "Take a class"
+msgstr "Suivez un cours"
+
+#: ../twentytwentytwo/inc/patterns/query-text-grid.php:6
+msgid "Text-based grid of posts"
+msgstr "Grille de publications basées sur du texte"
+
+#: ../twentytwentytwo/inc/patterns/header-text-only-green-background.php:6
+#: ../twentytwentytwo/inc/patterns/header-text-only-salmon-background.php:6
+msgid "Text-only header with background"
+msgstr "En-tête texte uniquement avec fond"
+
+#: ../twentytwentytwo/inc/patterns/header-text-only-with-tagline-black-background.php:6
+msgid "Text-only header with tagline and background"
+msgstr "En-tête texte uniquement avec slogan et fond"
+
+#: ../twentytwentytwo/inc/patterns/page-sidebar-poster.php:56
+msgid "The Grand Theater<br>154 Eastern Avenue<br>Maryland NY, 12345"
+msgstr "Le Grand Théâtre<br>154 Eastern Avenue<br>Maryland NY, 12345"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:61
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:109
+msgid "The Swell Theater<br>120 River Rd.<br>Rainfall, NH"
+msgstr "Le Théâtre Swell<br>120 River Rd.<br>Rainfall, NH"
+
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:37
+#: ../twentytwentytwo/inc/patterns/general-list-events.php:85
+msgid "The Vintagé Theater<br>245 Arden Rd.<br>Gardenville, NH"
+msgstr "Le Théâtre Vintagé<br>245 Arden Rd.<br>Gardenville, NH"
+
+#: ../twentytwentytwo/inc/patterns/general-pricing-table.php:71
+msgctxt "Third item in a numbered list."
+msgid "3"
+msgstr "3"
+
+#: ../twentytwentytwo/inc/patterns/hidden-404.php:12
+msgid "This page could not be found. Maybe try a search?"
+msgstr "Cette page est introuvable. Peut-être essayer une recherche ?"
+
+#: ../twentytwentytwo/inc/patterns/header-title-and-button.php:6
+msgid "Title and button header"
+msgstr "En-tête avec titre et bouton"
+
+#: ../twentytwentytwo/inc/patterns/header-title-navigation-social.php:6
+msgid "Title, navigation, and social links header"
+msgstr "En-tête avec titre, navigation et liens sociaux"
+
+#: ../twentytwentytwo/inc/patterns/general-two-images-text.php:6
+msgid "Two images with text"
+msgstr "Deux images avec texte"
+
+#: ../twentytwentytwo/inc/patterns/general-video-trailer.php:6
+msgid "Video trailer"
+msgstr "Bande-annonce vidéo"
+
+#: ../twentytwentytwo/inc/patterns/general-video-header-details.php:6
+msgid "Video with header and details"
+msgstr "Vidéo avec en-tête et détails"
+
+#: ../twentytwentytwo/inc/patterns/general-subscribe.php:11
+msgid "Watch birds<br>from your inbox"
+msgstr "Observez les oiseaux<br>depuis votre boîte mail"
+
+#: ../twentytwentytwo/inc/patterns/page-about-links-dark.php:26
+#: ../twentytwentytwo/inc/patterns/page-about-links.php:30
+msgid "Watch our videos"
+msgstr "Regardez nos vidéos"
+
+#: ../twentytwentytwo/inc/patterns/footer-about-title-logo.php:17
+#: ../twentytwentytwo/inc/patterns/footer-blog.php:17
+msgid ""
+"We are a rogue collective of bird watchers. We’ve been known to sneak "
+"through fences, climb perimeter walls, and generally trespass in order to "
+"observe the rarest of birds."
+msgstr ""
+"Nous sommes un collectif d'observateurs d'oiseaux indisciplinés. Nous sommes "
+"connus pour nous faufiler à travers des clôtures, escalader des murs de "
+"périmètre, et généralement enfreindre la loi pour observer les oiseaux les "
+"plus rares."
+
+#: ../twentytwentytwo/inc/patterns/page-layout-two-columns.php:21
+msgid "WELCOME"
+msgstr "BIENVENUE"
+
+#: ../twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:16
+msgid "Welcome to<br>the Aviary"
+msgstr "Bienvenue dans<br>la Volière"
+
+#: ../twentytwentytwo/inc/patterns/general-wide-image-intro-buttons.php:6
+msgid "Wide image with introduction and buttons"
+msgstr "Image large avec introduction et boutons"
+
+#: ../twentytwentytwo/inc/patterns/footer-navigation-copyright.php:20
+#: ../twentytwentytwo/inc/patterns/footer-social-copyright.php:24
+msgid "© Site Title"
+msgstr "© Titre du site"

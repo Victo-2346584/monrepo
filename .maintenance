@@ -1,0 +1,5 @@
+<?php
+$upgrading = time();
+require_once("wp-content/maintenance.php");
+?>
+

@@ -1,0 +1,9 @@
+/**
+ * Theme Name: hugonadeau
+ * Author: Hugo Nadeau
+ * Description: Thème enfant pour le site de hugo
+ * Text Domain: hugonadeau
+ * Version: 1.0
+ * Template: twentytwentytwo
+ */
+@import url("../twentytwentytwo/style.css");

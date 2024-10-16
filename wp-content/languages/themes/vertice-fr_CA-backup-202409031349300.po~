@@ -1,0 +1,1231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Vertice\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-03 13:28+0000\n"
+"PO-Revision-Date: 2024-09-03 13:37+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français du Canada\n"
+"Language: fr_CA\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Domain: vertice"
+
+#: comments.php:16
+msgid "% Responses"
+msgstr ""
+
+#: inc/translations.php:281
+#, php-format
+msgid ""
+"%1$s plugin adds drag and drop functionality and many other features to the "
+"%2$s theme."
+msgstr ""
+
+#: inc/translations.php:276
+#, php-format
+msgid "%1$s plugin is recommended for the %2$s contact section."
+msgstr ""
+
+#: functions.php:347
+#, php-format
+msgid "%s design has been successfully imported!"
+msgstr ""
+
+#: functions.php:357
+#, php-format
+msgid ""
+"%s design has been successfully imported! You can take a look at your new "
+"design or start editing it"
+msgstr ""
+
+#: inc/translations.php:292
+#, php-format
+msgid ""
+"%s uses an AI page generator to create a homepage that is adapted to your "
+"website. Here’s what you’ll get:"
+msgstr ""
+
+#: inc/translations.php:324
+msgid "*Any of these actions will also install the Kubio Page Builder plugin."
+msgstr ""
+
+#: inc/translations.php:181
+msgid "- No menu -"
+msgstr ""
+
+#: inc/translations.php:86
+msgid "10deg Stripes"
+msgstr ""
+
+#: template-parts/content/single.php:120
+msgid "32"
+msgstr ""
+
+#: inc/translations.php:301
+msgid "A homepage customized for your website"
+msgstr ""
+
+#: inc/translations.php:285
+msgid "Activate"
+msgstr ""
+
+#: inc/translations.php:226
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:150
+msgid "Activate Kubio"
+msgstr ""
+
+#: inc/translations.php:289
+#, php-format
+msgid "Activating %s"
+msgstr ""
+
+#: inc/translations.php:295
+msgid "Active"
+msgstr ""
+
+#: inc/translations.php:48
+msgid "Add"
+msgstr ""
+
+#: inc/translations.php:114
+msgid "Add Button"
+msgstr ""
+
+#: inc/translations.php:151
+msgid "Add Field"
+msgstr ""
+
+#: inc/translations.php:154
+msgid "Add Icon"
+msgstr ""
+
+#: inc/translations.php:153
+msgid "Add Item"
+msgstr ""
+
+#: inc/translations.php:300
+msgid "Add Predefined Section"
+msgstr ""
+
+#: inc/translations.php:51
+msgid "Add Slide"
+msgstr ""
+
+#: inc/translations.php:20
+msgid "Advanced"
+msgstr ""
+
+#: inc/translations.php:122
+msgid "Align"
+msgstr ""
+
+#: inc/translations.php:168
+msgid "Alternate logo image"
+msgstr ""
+
+#: inc/translations.php:64
+msgid "Attachment"
+msgstr ""
+
+#: inc/translations.php:70
+msgid "Auto"
+msgstr ""
+
+#: inc/translations.php:7
+msgid "Back"
+msgstr ""
+
+#: inc/translations.php:194
+msgid "Background"
+msgstr ""
+
+#: inc/translations.php:24
+msgid "Background Color"
+msgstr ""
+
+#: inc/translations.php:25
+msgid "Background Image"
+msgstr ""
+
+#: inc/translations.php:23
+msgid "Background Type"
+msgstr ""
+
+#: inc/translations.php:17
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/translations.php:133
+msgid "Blur"
+msgstr ""
+
+#: inc/translations.php:136
+msgid "Border"
+msgstr ""
+
+#: inc/translations.php:62
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/translations.php:61
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/translations.php:191
+msgid "Bottom line"
+msgstr ""
+
+#: inc/translations.php:63
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/translations.php:129
+msgid "Box shadow"
+msgstr ""
+
+#: inc/translations.php:160
+msgid "Boxed"
+msgstr ""
+
+#: inc/defaults.php:239
+msgid ""
+"Bringing your imaginative ideas to life with boundless imagination and "
+"innovative thinking is a remarkable journey that thrives on the synergy of "
+"innovation."
+msgstr ""
+
+#: inc/translations.php:113
+msgid "Button"
+msgstr ""
+
+#: inc/translations.php:164
+msgid "Button align"
+msgstr ""
+
+#: inc/translations.php:187
+msgid "Button highlight type"
+msgstr ""
+
+#: inc/translations.php:188
+msgid "Button hover effect"
+msgstr ""
+
+#: inc/translations.php:116
+msgid "Button Type"
+msgstr ""
+
+#: inc/translations.php:115
+msgid "Buttons"
+msgstr ""
+
+#: inc/translations.php:59
+msgid "Center Center"
+msgstr ""
+
+#: inc/translations.php:58
+msgid "Center Left"
+msgstr ""
+
+#: inc/translations.php:60
+msgid "Center Right"
+msgstr ""
+
+#: inc/translations.php:247
+msgid "Change color settings"
+msgstr ""
+
+#: inc/translations.php:243
+msgid "Change the hero image"
+msgstr ""
+
+#: inc/translations.php:252
+msgid "Check all demo sites page"
+msgstr ""
+
+#: inc/translations.php:262
+msgid "Check documentation"
+msgstr ""
+
+#: inc/translations.php:298
+msgid "Choose footer design"
+msgstr ""
+
+#: inc/translations.php:297
+msgid "Choose header design"
+msgstr ""
+
+#: inc/translations.php:254
+msgid "Choose one of the predefined designs"
+msgstr ""
+
+#: inc/translations.php:321
+msgid "Choose this if you're building a blog or a content website"
+msgstr ""
+
+#: inc/translations.php:318
+msgid "Choose this if you're building a presentation website"
+msgstr ""
+
+#: inc/translations.php:85
+msgid "Circles"
+msgstr ""
+
+#: inc/translations.php:90
+msgid "Circles 2"
+msgstr ""
+
+#: inc/translations.php:91
+msgid "Circles 3"
+msgstr ""
+
+#: inc/translations.php:92
+msgid "Circles Gradient"
+msgstr ""
+
+#: inc/translations.php:93
+msgid "Circles White Gradient"
+msgstr ""
+
+#: inc/defaults.php:693
+msgid "Classic"
+msgstr ""
+
+#: inc/translations.php:46
+msgid "Clear"
+msgstr ""
+
+#: inc/translations.php:258
+msgid ""
+"Colibri is easy to learn and master, but you can always check out our "
+"documentation to check out features you might have missed."
+msgstr ""
+
+#: inc/translations.php:237
+msgid "Colibri Settings"
+msgstr ""
+
+#: inc/translations.php:26
+msgid "Color"
+msgstr ""
+
+#: template-parts/content/single.php:119
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/translations.php:304
+msgid "Contact form and social media integration"
+msgstr ""
+
+#: inc/defaults.php:236
+msgid "Contact us"
+msgstr ""
+
+#: inc/translations.php:72
+msgid "Contain"
+msgstr ""
+
+#: inc/translations.php:161
+msgid "Container width"
+msgstr ""
+
+#: inc/translations.php:11 inc/translations.php:18
+msgid "Content"
+msgstr ""
+
+#: inc/translations.php:12
+msgid "Content Settings"
+msgstr ""
+
+#: inc/translations.php:149
+msgid "Content Type"
+msgstr ""
+
+#: inc/translations.php:287
+msgid "Continue"
+msgstr ""
+
+#: inc/translations.php:71
+msgid "Cover"
+msgstr ""
+
+#: inc/template-functions.php:12
+#, php-format
+msgid "Created with ❤️ using WordPress and %s theme."
+msgstr ""
+
+#: inc/translations.php:317
+msgid "Custom Home Page"
+msgstr ""
+
+#: inc/translations.php:250
+msgid "Customize"
+msgstr ""
+
+#: inc/translations.php:248
+msgid "Customize fonts"
+msgstr ""
+
+#: inc/translations.php:246
+msgid "Customize footer"
+msgstr ""
+
+#: inc/translations.php:245
+msgid "Customize frontpage hero"
+msgstr ""
+
+#: inc/translations.php:249
+msgid "Customize menu"
+msgstr ""
+
+#: inc/translations.php:244
+msgid "Customize navigation"
+msgstr ""
+
+#: inc/translations.php:35
+msgid "Divider height"
+msgstr ""
+
+#: inc/translations.php:36
+msgid "Divider negative"
+msgstr ""
+
+#: inc/translations.php:34
+msgid "Divider style"
+msgstr ""
+
+#: inc/translations.php:68
+msgid "Do not repeat"
+msgstr ""
+
+#: inc/translations.php:257
+msgid "Documentation"
+msgstr ""
+
+#: inc/translations.php:299
+msgid "Don't show anymore"
+msgstr ""
+
+#: inc/translations.php:96
+msgid "Dots"
+msgstr ""
+
+#: inc/translations.php:193
+msgid "Double line"
+msgstr ""
+
+#: inc/translations.php:196
+msgid "Drop in"
+msgstr ""
+
+#: inc/translations.php:197
+msgid "Drop out"
+msgstr ""
+
+#: inc/translations.php:182
+msgid "Edit Menu Structure"
+msgstr ""
+
+#: inc/translations.php:74
+msgid "Effect Speed"
+msgstr ""
+
+#: inc/translations.php:232
+msgid "Enable masonry"
+msgstr ""
+
+#. Author of the theme
+msgid "Extend Themes"
+msgstr ""
+
+#: inc/translations.php:78
+msgid "External"
+msgstr ""
+
+#: inc/translations.php:150
+#, php-format
+msgid "Field %s"
+msgstr ""
+
+#: inc/translations.php:66
+msgid "Fixed"
+msgstr ""
+
+#: inc/translations.php:10
+msgid "Footer"
+msgstr ""
+
+#: functions.php:135
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/translations.php:16
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/translations.php:134
+msgid "Frame options"
+msgstr ""
+
+#: inc/translations.php:142
+msgid "Frame thickness"
+msgstr ""
+
+#: inc/translations.php:125
+msgid "Full Height"
+msgstr ""
+
+#: inc/translations.php:162
+msgid "Full width"
+msgstr ""
+
+#: inc/defaults.php:681
+msgid "Fullscreen"
+msgstr ""
+
+#: inc/translations.php:322
+msgid "Generate Homepage"
+msgstr ""
+
+#: inc/translations.php:293
+msgid "Generate homepage with AI"
+msgstr ""
+
+#: inc/defaults.php:235
+msgid "Get in control"
+msgstr ""
+
+#: inc/translations.php:239
+msgid "Get Started"
+msgstr ""
+
+#: template-parts/404-header/hero.php:44 template-parts/content/404.php:19
+msgid "Go to Homepage!"
+msgstr ""
+
+#: inc/translations.php:28
+msgid "Gradient"
+msgstr ""
+
+#: inc/translations.php:203
+msgid "Grow down"
+msgstr ""
+
+#: inc/translations.php:200
+msgid "Grow from center"
+msgstr ""
+
+#: inc/translations.php:198
+msgid "Grow from left"
+msgstr ""
+
+#: inc/translations.php:199
+msgid "Grow from right"
+msgstr ""
+
+#: inc/translations.php:204
+msgid "Grow left"
+msgstr ""
+
+#: inc/translations.php:205
+msgid "Grow right"
+msgstr ""
+
+#: inc/translations.php:202
+msgid "Grow up"
+msgstr ""
+
+#: inc/translations.php:9
+msgid "Header"
+msgstr ""
+
+#: functions.php:134
+msgid "Header Menu"
+msgstr ""
+
+#: inc/translations.php:138
+msgid "Height"
+msgstr ""
+
+#: inc/translations.php:8
+msgid "Help"
+msgstr ""
+
+#: inc/translations.php:104
+msgid "Hero layout"
+msgstr ""
+
+#: inc/translations.php:15
+msgid "Hero Settings"
+msgstr ""
+
+#: inc/translations.php:130
+msgid "Horizontal"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://kubiobuilder.com"
+msgstr ""
+
+#: inc/translations.php:155
+msgid "Icon"
+msgstr ""
+
+#: inc/translations.php:152
+#, php-format
+msgid "Icon %s"
+msgstr ""
+
+#: inc/translations.php:121
+msgid "Icons"
+msgstr ""
+
+#: inc/translations.php:27
+msgid "Image"
+msgstr ""
+
+#: inc/translations.php:176
+msgid "Image with text above"
+msgstr ""
+
+#: inc/translations.php:174
+msgid "Image with text below"
+msgstr ""
+
+#: inc/translations.php:177
+msgid "Image with text on the left"
+msgstr ""
+
+#: inc/translations.php:175
+msgid "Image with text on the right"
+msgstr ""
+
+#: inc/translations.php:147
+msgid "Information Fields"
+msgstr ""
+
+#: inc/translations.php:286
+msgid "Install"
+msgstr ""
+
+#: inc/translations.php:225
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:146
+msgid "Install Kubio"
+msgstr ""
+
+#: inc/translations.php:288
+#, php-format
+msgid "Installing %s"
+msgstr ""
+
+#: functions.php:241
+msgid "Kubio"
+msgstr ""
+
+#: functions.php:241
+msgid "Kubio PRO"
+msgstr ""
+
+#: inc/translations.php:119
+msgid "Label"
+msgstr ""
+
+#: inc/translations.php:320
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: inc/translations.php:167
+msgid "Layout type"
+msgstr ""
+
+#: inc/translations.php:269
+msgid "Leave a Review"
+msgstr ""
+
+#: inc/translations.php:274
+msgid "Leave a review"
+msgstr ""
+
+#: inc/translations.php:97
+msgid "Left Tilted Lines"
+msgstr ""
+
+#: inc/translations.php:120
+msgid "Link"
+msgstr ""
+
+#: inc/translations.php:241
+msgid "Links to Customizer Settings"
+msgstr ""
+
+#: inc/translations.php:170
+msgid "Logo"
+msgstr ""
+
+#: inc/translations.php:212
+msgid "Logo / Nav"
+msgstr ""
+
+#: inc/translations.php:213
+msgid "Logo above"
+msgstr ""
+
+#: inc/translations.php:172
+msgid "Logo image only"
+msgstr ""
+
+#: inc/translations.php:88
+msgid "Many Rounded Squares Blue"
+msgstr ""
+
+#: inc/translations.php:303
+msgid "Matching color scheme and typography"
+msgstr ""
+
+#: inc/translations.php:180
+msgid "Menu"
+msgstr ""
+
+#: inc/translations.php:184
+msgid "Mobile"
+msgstr ""
+
+#: inc/translations.php:185
+msgid "Mobile and tablet"
+msgstr ""
+
+#: template-parts/404-header/header-menu.php:8
+#: template-parts/front-header/header-menu.php:8
+#: template-parts/header/header-menu.php:8
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/translations.php:186
+msgid "Mobile, tablet and desktop"
+msgstr ""
+
+#: inc/defaults.php:687
+msgid "Modern"
+msgstr ""
+
+#: inc/translations.php:169
+msgid "Navigation padding"
+msgstr ""
+
+#: inc/translations.php:14
+msgid "Navigation Settings"
+msgstr ""
+
+#: comments.php:59
+msgid "Newer Comments"
+msgstr ""
+
+#: template-parts/content/index.php:55 template-parts/content/search.php:55
+#: template-parts/content/single.php:100
+msgid "Next"
+msgstr ""
+
+#: comments.php:14
+msgid "No Responses"
+msgstr ""
+
+#: template-parts/content/single.php:116
+msgid "No responses yet"
+msgstr ""
+
+#: template-parts/content/single.php:64
+msgid "No tags"
+msgstr ""
+
+#: inc/translations.php:294 inc/translations.php:323
+msgid "No thanks, install the default homepage"
+msgstr ""
+
+#: inc/translations.php:47
+msgid "None"
+msgstr ""
+
+#: inc/translations.php:139
+msgid "Offset"
+msgstr ""
+
+#: inc/translations.php:140
+msgid "Offset left"
+msgstr ""
+
+#: inc/translations.php:141
+msgid "Offset top"
+msgstr ""
+
+#: template-parts/404-header/hero.php:34
+msgid "Oh no! :( Are you lost?"
+msgstr ""
+
+#: inc/translations.php:45
+msgid "OK"
+msgstr ""
+
+#: comments.php:43
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:15
+msgid "One Response"
+msgstr ""
+
+#: template-parts/content/single.php:117
+msgid "One response"
+msgstr ""
+
+#: inc/translations.php:84
+msgid "Opacity"
+msgstr ""
+
+#: inc/translations.php:268
+msgid "Open a support ticket"
+msgstr ""
+
+#: inc/translations.php:238
+msgid "or"
+msgstr ""
+
+#: inc/translations.php:264
+msgid ""
+"Our technical team is here to help you build an awesome website. We usually "
+"answer support issues in less than 1 business day."
+msgstr ""
+
+#: inc/translations.php:101
+msgid "Overlay Shape"
+msgstr ""
+
+#: inc/translations.php:82
+msgid "Overlay Type"
+msgstr ""
+
+#: lib/colibriwp/src/Components/PageContent.php:116
+msgid "Page"
+msgstr ""
+
+#: inc/template-functions.php:51 template-parts/content/404.php:9
+msgid "Page not found"
+msgstr ""
+
+#: lib/colibriwp/src/Components/PageContent.php:112
+msgid "Pages:"
+msgstr ""
+
+#: inc/translations.php:52
+msgid "Position"
+msgstr ""
+
+#: inc/translations.php:230
+msgid "Posts per row"
+msgstr ""
+
+#: inc/translations.php:290
+msgid "Preparing Front Page installation"
+msgstr ""
+
+#: inc/translations.php:6
+msgid "Press return or enter to open this section"
+msgstr ""
+
+#: template-parts/content/index.php:29 template-parts/content/search.php:29
+#: template-parts/content/single.php:83
+msgid "Previous"
+msgstr ""
+
+#: inc/translations.php:117
+msgid "Primary Button"
+msgstr ""
+
+#: inc/translations.php:217
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content/index/loop-item.php:50
+msgid "Read more"
+msgstr ""
+
+#: inc/translations.php:240
+msgid "Recommended plugins"
+msgstr ""
+
+#: inc/translations.php:49
+msgid "Remove"
+msgstr ""
+
+#: inc/translations.php:69
+#, php-format
+msgid "Repeat %s"
+msgstr ""
+
+#: inc/translations.php:98
+msgid "Right Tilted Lines"
+msgstr ""
+
+#: inc/translations.php:99
+msgid "Right Tilted Strips"
+msgstr ""
+
+#: inc/translations.php:87
+msgid "Rounded Square Blue"
+msgstr ""
+
+#: inc/translations.php:65
+msgid "Scroll"
+msgstr ""
+
+#: inc/template-functions.php:53
+#, php-format
+msgid "Search Results for &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/translations.php:118
+msgid "Secondary Button"
+msgstr ""
+
+#: inc/translations.php:42
+msgid "Select"
+msgstr ""
+
+#: inc/translations.php:44
+msgid "Select image"
+msgstr ""
+
+#: inc/translations.php:43
+msgid "Select item"
+msgstr ""
+
+#: inc/translations.php:76
+msgid "Self Hosted"
+msgstr ""
+
+#: inc/translations.php:77
+msgid "Self Hosted Video"
+msgstr ""
+
+#: inc/translations.php:242
+msgid "Set your logo"
+msgstr ""
+
+#: inc/translations.php:100
+msgid "Shape Light"
+msgstr ""
+
+#: inc/translations.php:83
+msgid "Shape Only"
+msgstr ""
+
+#: inc/translations.php:81
+msgid "Show Background Overlay"
+msgstr ""
+
+#: inc/translations.php:231
+msgid "Show blog sidebar "
+msgstr ""
+
+#: inc/translations.php:33
+msgid "Show bottom divider"
+msgstr ""
+
+#: inc/translations.php:143
+msgid "Show frame over image"
+msgstr ""
+
+#: inc/translations.php:144
+msgid "Show frame shadow"
+msgstr ""
+
+#: inc/translations.php:183
+msgid "Show offscreen menu on"
+msgstr ""
+
+#: inc/translations.php:109
+msgid "Show Subtitle"
+msgstr ""
+
+#: inc/translations.php:233
+msgid "Show thumbnail placeholder"
+msgstr ""
+
+#: inc/translations.php:108
+msgid "Show Title"
+msgstr ""
+
+#: inc/translations.php:159
+msgid "Show top bar"
+msgstr ""
+
+#: inc/translations.php:206
+msgid "Shutter in horizontal"
+msgstr ""
+
+#: inc/translations.php:208
+msgid "Shutter in vertical"
+msgstr ""
+
+#: inc/translations.php:207
+msgid "Shutter out horizontal"
+msgstr ""
+
+#: inc/translations.php:209
+msgid "Shutter out vertical"
+msgstr ""
+
+#: inc/translations.php:173
+msgid "Site title text only"
+msgstr ""
+
+#: inc/translations.php:67
+msgid "Size"
+msgstr ""
+
+#: inc/translations.php:296
+msgid "Skip to content"
+msgstr ""
+
+#: inc/translations.php:50
+#, php-format
+msgid "Slide %s"
+msgstr ""
+
+#: inc/translations.php:73
+msgid "Slide Duration"
+msgstr ""
+
+#: inc/translations.php:29
+msgid "Slideshow"
+msgstr ""
+
+#: inc/translations.php:148
+msgid "Social Icons"
+msgstr ""
+
+#: inc/translations.php:124
+msgid "Spacing bottom"
+msgstr ""
+
+#: inc/translations.php:123
+msgid "Spacing top"
+msgstr ""
+
+#: inc/translations.php:132
+msgid "Spread"
+msgstr ""
+
+#: inc/translations.php:255
+msgid "Start with selected design"
+msgstr ""
+
+#: inc/translations.php:19
+msgid "Style"
+msgstr ""
+
+#: inc/translations.php:111
+msgid "Subtitle"
+msgstr ""
+
+#: inc/translations.php:263
+msgid "Support"
+msgstr ""
+
+#: template-parts/content/single.php:53
+msgid "Tags:"
+msgstr ""
+
+#: inc/translations.php:156
+msgid "Text"
+msgstr ""
+
+#: inc/translations.php:126
+msgid "Text column width"
+msgstr ""
+
+#: inc/translations.php:105
+msgid "Text only"
+msgstr ""
+
+#: inc/translations.php:112
+msgid "Text width"
+msgstr ""
+
+#: inc/translations.php:107
+msgid "Text with media on left"
+msgstr ""
+
+#: inc/translations.php:106
+msgid "Text with media on right"
+msgstr ""
+
+#: inc/translations.php:302
+msgid "Texts and images based on your website subject"
+msgstr ""
+
+#: lib/colibriwp/src/Core/EnableKubioInCustomizerPanel.php:137
+msgid ""
+"The Kubio plugin takes Vertice to a whole new level by adding new and "
+"powerful editing and styling options. Wanna have full control over your "
+"design with Vertice?"
+msgstr ""
+
+#: inc/translations.php:305
+msgid "These actions will also install the Kubio Page Builder plugin."
+msgstr ""
+
+#: inc/translations.php:234
+msgid "Thumbnail placeholder color"
+msgstr ""
+
+#: inc/translations.php:38
+msgid "Tilt"
+msgstr ""
+
+#: inc/translations.php:39
+msgid "Tilt Flipped"
+msgstr ""
+
+#: inc/translations.php:110
+msgid "Title"
+msgstr ""
+
+#: inc/translations.php:221
+#, php-format
+msgid "To enable all the theme features, please install %s plugin"
+msgstr ""
+
+#: inc/translations.php:13
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/translations.php:56
+msgid "Top Center"
+msgstr ""
+
+#: inc/translations.php:55
+msgid "Top Left"
+msgstr ""
+
+#: inc/translations.php:192
+msgid "Top line"
+msgstr ""
+
+#: inc/translations.php:57
+msgid "Top Right"
+msgstr ""
+
+#: inc/translations.php:163
+msgid "Transparent nav"
+msgstr ""
+
+#: inc/translations.php:89
+msgid "Two Circles"
+msgstr ""
+
+#: inc/translations.php:135
+msgid "Type"
+msgstr ""
+
+#: inc/translations.php:310
+#, php-format
+msgid "Undefined sanitize function for control \"%s\""
+msgstr ""
+
+#: inc/defaults.php:238
+msgid "Unlock Your Potential"
+msgstr ""
+
+#: inc/translations.php:131
+msgid "Vertical"
+msgstr ""
+
+#. Name of the theme
+msgid "Vertice"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Vertice is an innovative,  easily customizable, multi-purpose theme, focused "
+"on empowering users to build astonishing WordPress websites. Vertice is "
+"mainly designed for small businesses, startups, or personal portfolio "
+"websites and works perfectly with Kubio Page Builder which enriches the "
+"WordPress block editor with a variety of new blocks and advanced styling "
+"options to give you full design freedom."
+msgstr ""
+
+#: inc/translations.php:30
+msgid "Video"
+msgstr ""
+
+#: inc/translations.php:79
+msgid "Video Poster"
+msgstr ""
+
+#: inc/translations.php:75
+msgid "Video type"
+msgstr ""
+
+#: functions.php:366
+msgid "View site"
+msgstr ""
+
+#: inc/translations.php:94
+msgid "Waves"
+msgstr ""
+
+#: inc/translations.php:95
+msgid "Waves Inverted"
+msgstr ""
+
+#: inc/translations.php:270
+msgid ""
+"We strive to provide our customers with the best service in our industry, so "
+"your feedback is very important to us. We would greatly appreciate it if you "
+"would take a few minutes to share your experience with us via this survey."
+msgstr ""
+
+#: inc/translations.php:251
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: inc/translations.php:316
+msgid "What would you like to display on your front page?"
+msgstr ""
+
+#: inc/translations.php:137
+msgid "Width"
+msgstr ""
+
+#: inc/translations.php:291
+msgid "Would you like to generate a homepage using AI? It's fast and FREE!"
+msgstr ""
+
+#: inc/translations.php:319
+msgid "Would you like to generate a new homepage using AI? It's fast & FREE!"
+msgstr ""
+
+#: inc/translations.php:80
+msgid "Youtube link"
+msgstr ""
+
+#: template-parts/content/single.php:118
+msgid "{COMMENTS-COUNT} Responses"
+msgstr ""

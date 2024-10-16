@@ -1,0 +1,30 @@
+
+table {
+    width: 100%; /* Prendre toute la largeur disponible */
+    border-collapse: collapse; /* Supprimer l'espace entre les bordures des cellules */
+    margin: 20px 0; /* Espacement au-dessus et en-dessous du tableau */
+    background-color: #ffffff; /* Fond blanc pour le tableau */
+}
+
+th, td {
+    padding: 12px; /* Espacement à l'intérieur des cellules */
+    text-align: left; /* Alignement du texte à gauche */
+    border: 1px solid #dddddd; /* Bordure grise claire autour des cellules */
+}
+
+th {
+    background-color: #0073aa; /* Couleur de fond pour les en-têtes */
+    color: white; /* Couleur du texte pour les en-têtes */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #f2f2f2; /* Couleur de fond pour les lignes paires */
+}
+
+tbody tr:hover {
+    background-color: #e2e2e2; /* Couleur de fond au survol des lignes */
+}
+
+td {
+    color: #333; /* Couleur du texte des cellules */
+}
